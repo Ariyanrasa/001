@@ -1,0 +1,122 @@
+
+
+
+/* navbar */
+
+
+
+
+/* navbar end */
+
+
+/* home */
+
+.landing{
+    position: relative;
+    top:0 ;
+    right:0;
+    width:100%;
+    height:100vh ;
+    z-index:-1 ;
+    
+}
+ .home-wrap{
+    position: absolute;
+    top:0 ;
+    right:0;
+    width:100%;
+    height:100% ;
+   
+ }
+
+.home-inner{
+    position: fixed;
+    top:0 ;
+    right:0;
+    width:100%;
+    height:100% ;
+    /* background:url(../images/pngtree-website-technology-line-dark-background-image_2344719.jpg); */
+background-size: cover;
+background-position: center center;
+}
+.cap{
+    width: 100%;
+    position: absolute;
+    top: 40%;
+    z-index: 1;
+    color: #f1f1f1;
+
+}
+.cap h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 6rem;
+    font-weight: 700;
+    text-shadow: 0.1rem 0.1rem 0.8rem #111;
+    padding-bottom: 1rem;
+}
+.cap h3{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 3rem;
+    text-shadow: 0.1rem 0.1rem 0.5rem #111;
+    padding-bottom: 1.6rem;
+    
+
+}
+.cap .btn-start{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.2rem;
+    border-width: medium;
+    padding: 0.5rem 1rem;
+
+}
+
+/* end home */
+
+/* about us */
+
+.area{
+    margin: 0 auto ;
+    padding: 4rem 2rem ;
+}
+.btn{
+    
+    
+    border-width: 0.2rem;
+}
+.area a{
+    text-decoration: none;
+    color: #111;
+}
+
+
+
+/* about us end */
+/* slide */
+
+
+.d-block{
+    width: 100px;
+    height: 500px;
+}
+/* slide end */
+/* before footer */
+
+.position-relative{
+    position: relative;
+    top: 0px;
+    left: 220px;
+}
+
+
+.position-relativeeeee{
+
+
+    position:relative;
+    top: 0px;
+    left: 220px;
+}
+
+
+
+
+/* before footer end */
